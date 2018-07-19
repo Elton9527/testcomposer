@@ -1,0 +1,12 @@
+{
+    "name": "elton9527/testcomposer",
+    "description": "Test composer project",
+    "authors": [
+        {
+            "name": "Elton",
+            "email": "wgaobo@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
